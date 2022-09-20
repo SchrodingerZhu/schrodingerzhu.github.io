@@ -42,6 +42,9 @@
 .Agda {
     font-size: xx-large;
 }
+.middle-font-area .small-font-area .Agda {
+    font-size: x-small;
+}
 .small-font-area .Agda {
     font-size: medium;
 }

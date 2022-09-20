@@ -3,7 +3,7 @@ agda --html --html-highlight=code --html-dir=dist Main.lagda.md
 
 mkdir -p dist/css
 cp webpage.css dist/css/webpage.css
-
+cp index.html dist/index.html
 cp -r img dist
 
 pushd dist

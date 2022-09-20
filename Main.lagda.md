@@ -26,7 +26,7 @@ module Main where -- welcome to my home page
 
 <div class="middle-font-area">
 ```agda
-module Contact where -- my contact info
+module Information where -- my information
   open import HoTT 
 ```
 - <i class="bi bi-telephone"></i> Phone : +1-585-301-0796
@@ -36,6 +36,8 @@ module Contact where -- my contact info
 - <i class="bi bi-twitter"></i> Twitter : ZhuSchrodinger
 - <i class="bi bi-telegram"></i> Telegram : schrodingerzhu
 - <i class="bi bi-github"></i> Github: SchrodingerZhu
+- <i class="bi bi-github"></i> Position: Full Time Ph.D. Student
+- <i class="bi bi-github"></i> Advisor: [Prof. Chen Ding](https://www.cs.rochester.edu/~cding/)
 
 <div class="small-font-area">
 ```agda
@@ -47,6 +49,17 @@ module Contact where -- my contact info
 ```
 </div>
 
+------------------
+
+```agda
+module Misc where
+    import Calendar     -- jump to see my schedule
+    import Publication  -- jump to see my publications
+    import Project      -- jump to see my projects
+```
+
+-----------------
+
 ```agda
 module SomeFun where
   open import HoTT 
@@ -54,11 +67,5 @@ module SomeFun where
   𝓤 has-univalent-axiom = (X Y : 𝓤 ̇ ) → is-equiv (Id→Eq X Y)
 ```
 
-```agda
-module Misc where
-    import Calendar -- jump to see my schedule
-
-```
 </div>
-
 </div>

@@ -20,20 +20,8 @@
 module Calendar where
 ```
 
-|       | Mon    | Tue    | Wed    | Thu    | Fri |
-|-------|--------|--------|--------|--------|-----|
-| 8-9   |        |        |        |        |     |
-| 9-10  |        | CSC444 |        | CSC444 |     |
-| 10-11 | CSC454 | CSC444 | CSC454 | CSC444 |     |
-| 11-12 | CSC454 |        | CSC454 |        |     |
-| 12-13 |        |        |        |        |     |
-| 13-14 |        |        |        |        |     |
-| 14-15 | CSC480 |        |        |        |     |
-| 15-16 |        |        |        |        |     |
-| 16-17 |        |        |        |        |     |
-| 17-18 | CSC480 | CSC400 | CSC480 | CSC400 |     |
-| 18-19 |        |        |        |        |     |
-| 19-20 |        |        |        |        |     |
+<iframe src="https://calendar.google.com/calendar/embed?src=jtlpplv6u2dgnsn4n7v410hui8%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+<p> </p>
 <button  type="button" class="btn btn-outline-primary" onclick="history.back()">Go Back</button>
 </div>

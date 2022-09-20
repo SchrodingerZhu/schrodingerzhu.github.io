@@ -14,9 +14,10 @@
 <pre class="Agda"><a id="828" class="Symbol">{-#</a> <a id="832" class="Keyword">OPTIONS</a> <a id="840" class="Pragma">--cubical</a> <a id="850" class="Pragma">--safe</a> <a id="857" class="Pragma">--without-K</a> <a id="869" class="Symbol">#-}</a>
 </pre></div>
 
-<pre class="Agda"><a id="893" class="Keyword">module</a> <a id="900" href="Calendar.html" class="Module">Calendar</a> <a id="909" class="Keyword">where</a>
+<pre class="Agda"><a id="893" class="Keyword">module</a> <a id="900" href="Publication.html" class="Module">Publication</a> <a id="912" class="Keyword">where</a>
 </pre>
-<iframe src="https://calendar.google.com/calendar/embed?src=jtlpplv6u2dgnsn4n7v410hui8%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+- Future is awaiting.
+- Future is awaiting.
 
 <p> </p>
 <button  type="button" class="btn btn-outline-primary" onclick="history.back()">Go Back</button>
