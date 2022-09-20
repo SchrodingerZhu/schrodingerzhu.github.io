@@ -11,6 +11,8 @@ pushd dist
     pandoc HoTT.md -o HoTT.html
     pandoc Universes.md -o Universes.html
     pandoc Calendar.md -o Calendar.html
+    pandoc Publication.md -o Publication.html
+    pandoc Project.md -o Project.html
 
     echo '<head><meta charset="UTF-8"><link rel="stylesheet" href="css/webpage.css"></head>' > /tmp/Agda.Primitive.html
     echo '<pre class="Agda">' >> /tmp/Agda.Primitive.html
